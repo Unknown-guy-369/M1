@@ -158,7 +158,7 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
-~~~
+~~~c
 #include <stdio.h>
 
 int main() {
@@ -210,7 +210,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
-```
+```c
 #include <stdio.h>
 
 int main() {
